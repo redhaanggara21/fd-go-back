@@ -1,1 +1,2 @@
-# fd-go-back
+# how to run it
+go run .
